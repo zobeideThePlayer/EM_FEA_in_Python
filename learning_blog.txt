@@ -1,0 +1,11 @@
+# This repository is dedicated to learning the classic EM FEA textbook by Jianming Jin, "The Finite Element Method in Electromagnetics". Learning means going thru the text, deducting some of the most important equations (on Overleaf.com), and implementation of code pieces in Python.
+# The intention of this file is to collect daily progress of learning
+
+Day 1
+"The problem of electromagnetic analysis is actually a problem of solving a set of Maxwell's equations subject to given boundary conditions"
+To sum it up, Maxwell's euqations are nothing but PDEs from static to 2nd order time derivatives.
+
+First part is some vector analysis, details on PDF
+
+1. numerical solutions to boundary value problems 
+Ritz method -- how to choose the proper expansion function in {c.v}?
